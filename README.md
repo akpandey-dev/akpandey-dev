@@ -4,12 +4,6 @@ Building tools, experiments, and utilities — neat, functional, professional.
 
 ---
 
-### Current Work
-- Web tools & interactive experiments  
-- Small apps and utilities  
-- CLI tools and automation
-
----
 
 ### Tech Stack
 <div>
@@ -33,23 +27,17 @@ Building tools, experiments, and utilities — neat, functional, professional.
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
-
 ---
 
-### Philosophy
-- Clean code, efficient logic  
-- Experimental, but safe  
-- Tools that solve, automate, or inspire  
+### About
+- Currently working on: Web tools & interactive experiments, Small apps and utilities, CLI tools and automation.
+- Fun Fact: Nothing Funny!
 
 ---
 
 ### Contact
-- GitHub: [akp-labs](https://github.com/akp-labs)  
-- Portfolio & demos in respective repositories  
+- GitHub: [akp-labs](https://github.com/akp-labs)
 
----
-
-*All projects are open for review. Collaboration upon request.*
 
 
 
