@@ -1,12 +1,14 @@
-## AKP Labs
+## <p align="center">AKP Labs</p>
 
-Building tools, experiments, and utilities — neat, functional, professional.  
+<p align="center">
+Building tools, experiments, and utilities — neat, functional, professional. 
+</p>
 
 ---
 
 
-### Tech Stack
-<div>
+### Tech Stack:
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -18,8 +20,8 @@ Building tools, experiments, and utilities — neat, functional, professional.
 
 ---
 
-### Learning
-<p>
+### Learning:
+<p align="center">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-Assembly-101010?style=flat&logo=gnu-bash&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
@@ -31,12 +33,14 @@ Building tools, experiments, and utilities — neat, functional, professional.
 
 ### About
 - Currently working on: Web tools & interactive experiments, Small apps and utilities, CLI tools and automation.
+- Favourite line: `const unsigned long long int integer = 0;`
 - Fun Fact: Nothing Funny!
 
 ---
 
 ### Contact
 - GitHub: [akp-labs](https://github.com/akp-labs)
+- Organization: [apt-13](https://github.com/apt-13)
 
 
 
