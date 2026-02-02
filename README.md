@@ -43,6 +43,14 @@ Building tools, experiments, and utilities — neat, functional, professional.
 ### Contact
 - GitHub: [akp-labs](https://github.com/akp-labs)
 - Organization: [apt-13](https://github.com/apt-13)
+- Not available anywhere else!
+
+---
+
+
+<p align="center">
+“Curiosity fuels code, code shapes reality.”
+</p>
 
 
 
