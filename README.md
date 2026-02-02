@@ -23,10 +23,12 @@ Building tools, experiments, and utilities — neat, functional, professional.
 ### Learning:
 <p align="center">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-Assembly-101010?style=flat&logo=gnu-bash&logoColor=white" alt="Assembly" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/-Assembly-101010?style=flat&logo=gnu-bash&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/-Shell-101010?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Scripting" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
