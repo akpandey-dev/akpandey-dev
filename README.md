@@ -42,7 +42,7 @@ Building tools, experiments, and utilities — neat, functional, professional.
 
 ### Contact
 
-- Website: [github-pages](https://akp-labs.github.io)
+- Website: [GitHub Pages](https://akp-labs.github.io)
 - GitHub: [akp-labs](https://github.com/akp-labs)
 - Organization: [apt-13](https://github.com/apt-13)
 - Not available anywhere else!
