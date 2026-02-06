@@ -1,4 +1,4 @@
-## <p align="center">AKP Labs</p>
+# <p align="center">AKP Labs</p>
 
 <p align="center">
 Building tools, experiments, and utilities — neat, functional, professional. 
@@ -7,7 +7,7 @@ Building tools, experiments, and utilities — neat, functional, professional.
 ---
 
 
-### Tech Stack:
+## Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -20,7 +20,7 @@ Building tools, experiments, and utilities — neat, functional, professional.
 
 ---
 
-### Learning:
+## Learning:
 <p align="center">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
@@ -33,14 +33,14 @@ Building tools, experiments, and utilities — neat, functional, professional.
 
 ---
 
-### About
+## About
 - Currently working on: Web tools & interactive experiments, Small apps and utilities, CLI tools and automation.
 - Favourite line: `const unsigned long long int integer = 0;`
 - Fun Fact: Nothing Funny!
 
 ---
 
-### Contact
+## Contact
 
 - Website: [GitHub Pages](https://akp-labs.github.io)
 - GitHub: [akp-labs](https://github.com/akp-labs)
