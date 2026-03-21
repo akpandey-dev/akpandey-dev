@@ -1,4 +1,4 @@
-# <p align="center">AKP Labs</p>
+# <p align="center">AK Pandey</p>
 
 <p align="center">
 Building tools, experiments, and utilities — neat, functional, professional. 
@@ -44,7 +44,7 @@ Building tools, experiments, and utilities — neat, functional, professional.
 
 - Website: [GitHub Pages](https://akp-labs.github.io)
 - GitHub: [akp-labs](https://github.com/akp-labs)
-- Organization: [apt-13](https://github.com/apt-13)
+- Organization: [akplabs](https://github.com/akplabs)
 - Not available anywhere else!
 
 ---
