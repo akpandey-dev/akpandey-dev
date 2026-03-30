@@ -1,7 +1,7 @@
 # <p align="center">AK Pandey</p>
 
 <p align="center">
-Building tools, experiments, and utilities — neat, functional, professional. 
+Building tools, experiments, and utilities — clean, functional, precise.
 </p>
 
 ---
@@ -20,7 +20,7 @@ Building tools, experiments, and utilities — neat, functional, professional.
 
 ---
 
-## Learning:
+## Currently Exploring:
 <p align="center">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
@@ -34,7 +34,10 @@ Building tools, experiments, and utilities — neat, functional, professional.
 ---
 
 ## About
-- Currently working on: Web tools & interactive experiments, Small apps and utilities, CLI tools and automation.
+- Currently working on:
+  - Building web tools, CLI utilities, and experimental systems
+  - Focused on simplicity, performance, and control
+  - Exploring low-level and system-level programming
 - Favourite line: `const unsigned long long int integer = 0;`
 - Fun Fact: Nothing Funny!
 
@@ -42,10 +45,15 @@ Building tools, experiments, and utilities — neat, functional, professional.
 
 ## Contact
 
-- Website: [GitHub Pages](https://akp-labs.github.io)
-- GitHub: [akp-labs](https://github.com/akp-labs)
-- Organization: [akplabs](https://github.com/akplabs)
-- Not available anywhere else!
+- Website: [GitHub Pages](https://akpandey-dev.github.io)
+- GitHub: [akpandey-dev](https://github.com/akpandey-dev)
+- GitHub Organization: [akp-labs](https://github.com/akp-labs)
+- I keep things minimal — website and GitHub are my main presence
+- **Not available anywhere else!**
+
+
+
+><p align="center">If you want more details, visit my website!</p>
 
 ---
 
@@ -58,7 +66,7 @@ Building tools, experiments, and utilities — neat, functional, professional.
 
 
 <!--
-**akp-labs/akp-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akpandey-dev/akpandey-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
